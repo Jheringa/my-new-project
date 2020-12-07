@@ -2,8 +2,8 @@
 
 ## Summary 
 
-An AI that creates custom recipes based on the users food preferences. The users can fill in a couple simple questions from different categories.
-The output will be a recipe fitting to these conditions. This will be a fun way to generate personal fitting and "new" recipes every-time. 
+An AI that creates custom recipes based on the users food preferences. The users can fill in a couple simple questions from different categories. 
+The output will be a recipe fitting to these conditions.
 
 
 ## Background
