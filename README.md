@@ -29,3 +29,8 @@ The downfall of unsupervised learning is that combined with the nearest neighbou
 ## What is next
 
 I think it could be built into a community platform where people can adjust the recipes, give feedback and tips to others.
+
+
+## Acknowledgments
+
+/
