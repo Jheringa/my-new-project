@@ -4,6 +4,7 @@
 
 
 ## Summary 
+
 An AI that creates custom recipes based on the users food preferences.
 
 The users can fill in a couple simple questions from different categories. 
