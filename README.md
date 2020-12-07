@@ -5,17 +5,7 @@
 
 ## Summary 
 
-An AI that creates custom recipes based on the users food preferences.
-
-The users can fill in a couple simple questions from different categories. 
-
-The first question will be about allergies and diets and food dislikes. 
-
-After that they choose the protein base of the meal this could be Rice, Pasta, Salad etc.
-
-The next question will be the weird and tricky question, they get asked to pick a color. This will output of the type of sauce. (For example red is made of tomato, green is pesto etc.)
-
-The output will be a recipe fitting to these conditions. This will be a fun way to generate personal fitting and "new" recipes every-time. 
+An AI that creates custom recipes based on the users food preferences. The users can fill in a couple simple questions from different categories. After that they choose the protein base of the meal this could be Rice, Pasta, Salad etc. The output will be a recipe fitting to these conditions. This will be a fun way to generate personal fitting and "new" recipes every-time. 
 
 ## Background
 
